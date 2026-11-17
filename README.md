@@ -16,9 +16,10 @@ I'm passionate about data analytics, exploring datasets, identifying patterns, a
 - Data Visualization
 
 📊 My Projects
-- **Automated Data Quality & Imputation Pipeline**
-- **Store Analysis using Excel**
 
+- [Automated Data Quality & Imputation Pipeline](https://github.com/komalkalgudi/data-analytics-projects)
+- [Store Analysis using Excel](https://github.com/komalkalgudi/data-analytics-projects)
+  
  💼 Internship Experience
 Data Science Intern – EV Domain  
 Vision Astra EV Academy
